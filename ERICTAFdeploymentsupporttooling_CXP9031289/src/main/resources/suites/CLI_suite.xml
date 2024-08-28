@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="CLI_suite">
+	<test name="DST_Deployment_Test_Cases">
+		<classes>
+			<class name="com.ericsson.itpf.deployment.test.cases.CLI_Fixed"></class>
+			<class name="com.ericsson.itpf.deployment.test.cases.CLI_Generate"></class>
+			<class name="com.ericsson.itpf.deployment.test.cases.CLI_Help"></class>
+			<class name="com.ericsson.itpf.deployment.test.cases.CLI_InvalidCommands"></class>
+			<class name="com.ericsson.itpf.deployment.test.cases.CLI_Version"></class>
+			<class name="com.ericsson.itpf.deployment.test.cases.DST_Logging"></class>
+			<class name="com.ericsson.itpf.deployment.test.cases.CLI_DST_LITP_InstallDeployment"></class>
+		</classes>
+	</test>
+</suite>

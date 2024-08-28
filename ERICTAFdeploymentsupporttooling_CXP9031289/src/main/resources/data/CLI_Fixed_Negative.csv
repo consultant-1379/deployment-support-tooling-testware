@@ -1,0 +1,4 @@
+id,title,host,command,expectedLog
+TORF-20979_Fixed_Command_No_GAV_Flag_Negative,Verify Fixed command No GAV flag cli message negative test,ms1,fixedDeploymentMissingGAVflag,[ERROR] Invalid command name
+TORF-20979_Fixed_Command_No_GAV_Value_Negative,Verify Fixed command No GAV value cli message negative test,ms1,fixedDeploymentMissingGAVoption,Missing argument <gav> for option
+TORF-20979_Fixed_ommand_No_Output_Directory_Negative,Verify Fixed command No output directory specified cli message negative test,ms1,fixedDeploymentMissingOutputDir,--directory <path>

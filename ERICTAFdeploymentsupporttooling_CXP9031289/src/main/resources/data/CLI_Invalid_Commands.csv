@@ -1,0 +1,5 @@
+id,title,host,cmdIncorrectFlag,expectedOutput
+TORF-24031_No_Command_Input_Negative,Verify CLI DST flag functions as expected when No Command is input,ms1,noFlag,generate    Generate a deployment description
+TORF-24031_Void_Flag_Negative,Verify void flag test,ms1,voidFlag,[ERROR] Unable to parse the command. Unrecognized option: -xxx
+TORF-24031_Void_Command_Negative,Verify void command test,ms1,voidCommand,[ERROR] Invalid command name [vers].
+TORF-24031_Multiple_Commands_Input_Negative,Verify CLI DST flag functions as expected when Multiple Commands are input,ms1,twoValidCommands,Multiple commands cannot be informed at the same time

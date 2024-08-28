@@ -1,0 +1,3 @@
+id,title,host,cmdIncorrectFlag,expectedOutput
+TORF-24031_Generate_Required_Option_Omitted_Negative,Verify CLI DST Generate flag functions as expected when Required Option is Omitted,ms1,missingRequiredOption,is a required option for command 'generate'.
+TORF-24031_Generate_Required_Option_Value_Omitted_Negative,Verify CLI DST Generate flag functions as expected when Required Option is value is Omitted,ms1,missingRequiredOptionValue,[ERROR] Unable to parse command. Missing argument <gav> for option '-g

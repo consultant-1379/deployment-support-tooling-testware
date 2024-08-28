@@ -1,0 +1,2 @@
+id,title,host,removeDSTLogCmd,fetchFromNexusFixedDeplCmd,resolvedExpected,grepItemTypeNameCmd,expectedXMLSnippet
+TORF-23897_FixedDeployment_Printed_To_Log_Positive,Verify if an FDCE input is logged in the dst.log,ms1,rmLogFileCommand,fetchFixedDeploymentCECmd,Artifact 'com.ericsson.oss.itpf.deployment.tools:cloud-fixed-deployment:1.0.48' resolved,grepItemTypeNameCmd,"<itemType name=""ms-items-collection"">"

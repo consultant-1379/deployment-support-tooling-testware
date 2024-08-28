@@ -1,0 +1,4 @@
+id,title,host,cmdGavFlag,expectedOutput
+TORF-24031_Generate_GAV_Flag_Test_Positive,Verify CLI DST Generate GAV flag functions as expected,ms1,gavFlag,[INFO]  Root configurable entity artifact: com.ericsson.oss.itpf.deployment.tools:alias:1.0.20
+TORF-24031_Generate_GAV_Flag_Verbose_Test_Positive,GAV Flag Verbose Test,ms1,gavFlagVerbose,[INFO]  Root configurable entity artifact: com.ericsson.oss.itpf.deployment.tools:alias:1.0.20
+TORF-24031_Generate_CE_Contains_Load_Driver_Test_Positive,CE contains load driver test,ms1,gavLoadDrivers,loadConversionFormula

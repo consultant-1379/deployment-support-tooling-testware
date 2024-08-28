@@ -1,0 +1,2 @@
+id,title,host,command,file,directory,expectedLog
+TORF_20976_1,fixed deployment output log test,ms1,fixedDeployment,cloud-fixed-deployment-1.0.38.xml,/tmp/taf_acceptance,File cloud-fixed-deployment-1.0.38.xml copied to /tmp/taf_acceptance.

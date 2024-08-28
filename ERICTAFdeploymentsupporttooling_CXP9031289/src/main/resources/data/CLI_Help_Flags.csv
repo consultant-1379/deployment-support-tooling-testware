@@ -1,0 +1,6 @@
+id,title,host,cmdHelpFlag,expectedUsageFormat
+TORF-24031_Help_Generate_Command_Positive,Verify CLI DST Generate Help flag functions as expected,ms1,helpFlag,generate    Generate a deployment description
+TORF-20976_Help_Fixed_Command_Positive,Verify Help Fixed Command Check Test,ms1,helpFlag,fixed       Generate a fixed deployment description
+TORF-24031_Help_Check_Test_Verbose,Verify CLI DST Help Verbose flag functions as expected,ms1,helpFlagVerbose,"--help' for more information on a specific command."
+
+

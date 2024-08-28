@@ -1,0 +1,2 @@
+id,title,host,cmdVersionFlag,expectedApplication,containsVersionString
+TORF-24031_Version_Flag_Test_Positive,Verify CLI DST version flag functions as expected,ms1,versionFlag,Deployment Support Tool,Version: 

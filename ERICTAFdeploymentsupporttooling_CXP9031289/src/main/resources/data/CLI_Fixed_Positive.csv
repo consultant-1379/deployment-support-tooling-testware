@@ -1,0 +1,2 @@
+id,title,host,command,fileName,directoryPath,expectedLog
+TORF-20979_Fixed_Deployment_Store_And_Console_Log_Positive,Verify Fixed deployment positive copy of file and console output log test,ms1,fixedDeployment,cloud-fixed-deployment-1.0.38.xml,/tmp/taf_acceptance,File cloud-fixed-deployment-1.0.38.xml copied to /tmp/taf_acceptance.
